@@ -4,7 +4,7 @@
 1. To set up the project, run the following:
 ```
 git clone https://github.com/thelamplab/biManifold/edit/master/README.md
-cd sourceDraw
+cd biManifold
 ```
 
 
