@@ -1,5 +1,13 @@
 # A shared functional architecture for error-based and reinforcement-based motor learning in the human brain
 
+## Project setup
+1. To set up the project, run the following:
+```
+git clone https://github.com/thelamplab/biManifold/edit/master/README.md
+cd sourceDraw
+```
+
+
 doi: https://doi.org/10.64898/2026.06.18.733155
 
 The motor system can flexibly learn from fundamentally different teaching signals, from directional errors to rewards. While computational and neurobiological models have long assigned these to distinct error-based learning (EL) and reinforcement-based learning (RL) processes, whether this separation holds at the level of whole-brain network architecture has not been directly tested. Here, we characterized whole-brain functional connectivity manifolds in the same participants as they performed separate EL and RL motor tasks — differing in both feedback type and motor structure — during two fMRI sessions. By jointly embedding covariance patterns from both tasks into a common low-dimensional neural space, we isolated task-general from task-specific learning-related network reconfigurations. We show that both forms of motor learning induce converging changes in the manifold structure of higher-order transmodal cortex, with comparatively limited task-specific modulation. Notably, this convergence extended to the cerebellum and basal ganglia, the canonical substrates of error-based and reward-based learning, which reconfigured comparably across both tasks. Against this shared backdrop, we found that the posterior medial cortex exhibited a unique functional geometry, selectively redistributing its connectivity across distinct brain circuits depending on feedback type and learning stage. We further demonstrate that individual differences in domain-general motor learning ability are associated with stage-dependent reconfigurations within limbic, default-mode, and attentional systems. These findings indicate that flexible motor adaptation, irrespective of the nature of the learning signal, is supported less by changes within task-specific sensorimotor circuits than by the dynamic reorganization of higher-order brain networks that coordinate them.
